@@ -1,0 +1,11 @@
+Dataset,Protocol,Comparison,Baseline,n_folds,n_effective,mean_proposed,mean_baseline,median_diff,mean_diff,W/L/T,W_stat,p_value,significance,rank_biserial,note
+MSU,LOSO,C3 vs B1,raw baseline,84,45,84.61,83.62,+0.00,+0.99,21/24/39,485.0,0.7133,ns,+0.063,
+MSU,LOSO,C3 vs A2,connectivity-only,84,56,84.61,74.14,+0.00,+10.47,33/23/28,452.5,0.0048,**,+0.436,
+MSU,GKF,C3 vs B1,raw baseline,10,10,85.80,82.91,+2.37,+2.89,7/3/0,9.0,0.0645,ns,+0.673,
+MSU,GKF,C3 vs A2,connectivity-only,10,9,85.80,74.99,+14.22,+10.81,8/1/1,1.0,0.0078,**,+0.956,
+RepOD,LOSO,C3 vs B1,raw baseline,28,28,57.28,70.08,-8.43,-12.80,8/20/0,70.0,0.0017,**,-0.655,
+RepOD,LOSO,C3 vs A2,connectivity-only,28,28,57.28,75.86,-13.80,-18.58,8/20/0,56.0,0.0004,***,-0.724,
+RepOD,GKF,C3 vs B1,raw baseline,10,10,67.96,69.93,+0.10,-1.97,5/5/0,23.0,0.6953,ns,-0.164,
+RepOD,GKF,C3 vs A2,connectivity-only,10,9,67.96,75.63,-7.04,-7.67,2/7/1,8.0,0.0977,ns,-0.644,
+Button-tone,LOSO,C3 vs B1,ERP baseline,,,,,,,,,,n/a,no per-fold data saved
+Button-tone,GKF,C3 vs B1,ERP baseline,,,,,,,,,,n/a,no per-fold data saved

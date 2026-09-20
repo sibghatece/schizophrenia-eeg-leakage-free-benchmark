@@ -1,0 +1,4 @@
+Dataset,Paradigm,Subjects,SZ/HC,Channels,Fs (Hz),Epoching,Observations,Cross-validation
+RepOD (Warsaw/IPN),Resting-state,28,14 SZ / 14 HC,16,250,"4 s, 50% overlap",14396,"LOSO, Group-10-Fold"
+MSU (Moscow),Resting-state,84,45 SZ / 39 HC,16,128,"4 s, 50% overlap",2436,"LOSO, Group-10-Fold"
+Button-tone (Ford/Roach),Task (auditory ERP),81,49 SZ / 32 HC,9,1024,trial-averaged ERP,81,"LOSO, Strat-10-Fold"

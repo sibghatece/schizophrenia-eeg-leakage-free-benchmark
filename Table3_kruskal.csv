@@ -1,0 +1,10 @@
+Feature,RepOD H-stat,RepOD p-value,MSU H-stat,MSU p-value,Significance
+Hjorth Activity,243.19,7.94×10-55,1.41,0.236,***
+Hjorth Mobility,5.12,0.024,156.34,7.15×10-36,***
+Hjorth Complexity,6.11,0.013,232.75,1.50×10-52,***
+Delta Band Power,682.66,1.76×10-150,108.79,1.81×10-25,***
+Theta Band Power,155.46,1.11×10-35,35.58,2.45×10-9,***
+Alpha Band Power,442.91,2.52×10-98,340.24,5.65×10-76,***
+Beta Band Power,732.71,2.31×10-161,19.37,1.08×10-5,***
+Gamma Band Power,8.56,0.003,0.17,0.677,**
+Mean Channel Correlation,165.06,8.86×10-38,21.11,4.33×10-6,***

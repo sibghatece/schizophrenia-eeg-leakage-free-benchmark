@@ -1,0 +1,13 @@
+Dataset,Method,Epoch Acc,Subject Acc,Source
+RepOD,ResNet-18 CNN,58.06,,leakage-free (prior)
+RepOD,Boosted trees,64.73,,leakage-free (prior)
+RepOD,SVM (subject),56.38,,leakage-free (prior)
+RepOD,REVE foundation,73.07,,leakage-free (prior)
+RepOD,Connectivity (this work),76.57,78.57,THIS WORK
+MSU,ResNet-18 CNN,81.30,,leakage-free (prior)
+MSU,Boosted trees,82.27,,leakage-free (prior)
+MSU,SVM (subject),80.77,,leakage-free (prior)
+MSU,REVE foundation,83.47,,leakage-free (prior)
+MSU,"CC-Tucker (this work, GKF)",85.59,88.10,THIS WORK
+Button-tone,Single-trial CNN,62.65,,leakage-free (prior)
+Button-tone,ERP+CC-Tucker (this work),65.43,,THIS WORK
